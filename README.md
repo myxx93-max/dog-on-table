@@ -109,6 +109,7 @@
 - [增长与内容传播](docs/GROWTH_STRATEGY.md)
 - [法律、事实与隐私原则](docs/TRUST_AND_SAFETY.md)
 - [独立开发与部署路线](docs/BUILD_YOUR_OWN.md)
+- [跨专业协作与个人收益](docs/SOCIAL_AND_PARTICIPATION.md)
 
 ## 许可与独立性
 
